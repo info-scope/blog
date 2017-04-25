@@ -3,7 +3,7 @@ node_js: stable
 
 branches:
   only:
-    - master
+    - blog-source
 env:
  global:
    - GH_REF: github.com/info-scope/blog.git
