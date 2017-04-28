@@ -8,6 +8,12 @@
   <span class="author" itemprop="copyrightHolder">{{ config.author }}</span>
 </div>
 
+<div class="copyright" >
+  <span id="busuanzi_container_site_pv">
+      本站总访问量<span id="busuanzi_value_site_pv"></span>次
+  </span>
+</div>
+
 {% if theme.copyright %}
 <div class="powered-by">
   {{ __('footer.powered', '<a class="theme-link" href="https://hexo.io">Hexo</a>') }}
@@ -20,3 +26,4 @@
   </a>
 </div>
 {% endif %}
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
