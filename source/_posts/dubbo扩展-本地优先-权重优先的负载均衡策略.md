@@ -1,7 +1,9 @@
 ---
 title: 'dubbo扩展:本地优先,权重优先的负载均衡策略'
 date: 2017-05-05 12:55:46
-tags: dubbo
+categories: java
+tags: 
+  - dubbo
 ---
 背景
 =============
