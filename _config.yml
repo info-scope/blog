@@ -10,6 +10,9 @@ author: InfoScope
 language: zh-Hans
 timezone:
 
+# sitemap
+sitemap:
+path: sitemap.xml
 #google
 google-site-verification: google776f98434a3294ab.html
 
